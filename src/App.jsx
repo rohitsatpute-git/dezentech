@@ -10,7 +10,7 @@ import Footer from './Components/Footer'
 function App() {
 
   return (
-    <div className='flex flex-col px-[14px] justify-center w-full text-[12px] lg:text-lg font-centrale'>
+    <div className='flex flex-col px-[14px]   justify-center w-full text-[12px] lg:text-lg font-centrale'>
         <div className=' pt-[30px] pb-4 flex justify-between items-center'>
             <Navbar/>
             <div className='text-[12px] lg:text-lg'> 
@@ -34,7 +34,7 @@ function App() {
         </div>
 
         <div className='font-normal w-full py-[12px] justify-center flex'>
-          This report provides the residency (Iqama) status of employees, including expiry dates, issuance dates, and renewal status for the month of &nbsp;<span className='font-bold'>March.</span>
+          This report provides the residency (Iqama) status of employees, including expiry dates, issuance dates, and renewal status for the month of March.
         </div>
 
         <Summary/>

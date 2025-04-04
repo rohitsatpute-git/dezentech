@@ -5,13 +5,13 @@ export default function Footer() {
           <strong>Disclaimer:</strong> This report is for informational purposes only and is based on the latest available data from <strong>AWN</strong>. All details are subject to real-time updates, and verification from official sources is required before making decisions. <strong>AWN</strong> is not liable for discrepancies, outdated information, or actions taken based on this report.
         </p>
   
-        <div className="bg-[#1A6D73] py-12 px-[12px] lg:px-16 text-white flex flex-col w-full gap-y-4 lg:gap-y-8">
+        <div className="bg-[#1A6D73] py-12 px-[12px] lg:px-16  text-white flex flex-col w-full gap-y-4 lg:gap-y-8">
           <div className="flex justify-between">
             <div className="flex items-center space-x-3">
                 <span className="text-2xl font-bold">عون AWN</span>
             </div>
     
-            <div className="flex items-center space-x-16 mt-4 md:mt-0 text-[14px] lg:text-2xl">
+            <div className="flex items-center lg:flex-row flex-col  mt-4 md:mt-0 text-xl gap-x-16">
                 <div className="flex items-center space-x-2">
                 <span>📞</span>
                 <span>0582940754</span>
