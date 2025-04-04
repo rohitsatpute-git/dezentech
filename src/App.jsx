@@ -10,7 +10,7 @@ import Footer from './Components/Footer'
 function App() {
 
   return (
-    <div className='flex flex-col px-[14px]   justify-center w-full text-[12px] lg:text-lg font-centrale'>
+    <div className='flex flex-col px-[14px]   justify-center w-full text-[12px] lg:text-lg ' style={{ fontFamily: 'CentraleSans-Medium"' }}>
         <div className=' pt-[30px] pb-4 flex justify-between items-center'>
             <Navbar/>
             <div className='text-[12px] lg:text-lg'> 

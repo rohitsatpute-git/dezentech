@@ -1,2 +1,13 @@
 
 @import "tailwindcss";
+@import url(https://db.onlinewebfonts.com/c/94996b19dae10d76930764c903973224?family=CentraleSans-Medium);
+
+@font-face {
+    font-family: "CentraleSans-Medium";
+    src: url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.eot");
+    src: url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/94996b19dae10d76930764c903973224.svg#CentraleSans-Medium")format("svg");
+}
