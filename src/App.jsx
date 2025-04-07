@@ -22,7 +22,7 @@ function App() {
         <hr/>
 
         <div className='py-[12px] w-full flex justify-center'>
-          <img src='/title.png'/>
+          <img src='/title.png' className='h-[63px] max-w-full object-contain' />
         </div>
 
         <div className='flex w-full justify-center items-center'>
